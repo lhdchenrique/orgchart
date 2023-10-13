@@ -1,7 +1,7 @@
 name,imageUrl,area,profileUrl,office,tags,isLoggedUser,positionName,id,parentId,size
 Andreas Constantine,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Leadership,,CEO office,"GM,tag1,manager,cto",false,Grand Master,O-6066,,
 MAIN ACCOUNT NOT ACTIVE,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Leadership,,CEO office,"GMO,tag1, tag2",false,Grand Master of The Order,O-6067,O-6066,
-Nobody,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Leadership,,CEO office,"MC,tag1, tag2",false,Master of The Concil,O-6068,O-6066,
+Nobody,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Leadership,,CEO office,"MC,tag1, tag2",false,Master of The Concil,O-6068,O-6067,
 Master Kahin,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,High Concil,,Concilior of Reassignment,"MRT,tag1, tag2",false,Master of Reassignment,O-6069,O-6066,
 Master Nash,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,High Concil,,Concilior of the first Knowledge,"MFK,tag1, tag2",false,Master of the first Knowledge,O-6070,O-6066,
 Master Qwerty,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,High Concil,,Concilior Of Reconciliation,"MRN,Corea, tag2",false,Master of Reconciliation,O-6071,O-6067,
